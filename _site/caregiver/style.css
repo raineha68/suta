@@ -38,8 +38,9 @@ body {
 }
 
 p {
-    font-size: 14px;
-    line-height: 1.75;
+    font-size: 20px;
+    line-height: 1.5;
+    font-family: Cambria;
 }
 
 p.large {
