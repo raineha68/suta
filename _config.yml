@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Asobo: Let's play
+title: Your awesome title
 email: your-email@example.com
 description: >- Kids in Japan say to other kids- ISSHO NI ASOBO, which simply  means – ‘Let’s play’
 baseurl: "" # the subpath of your site, e.g. /blog
